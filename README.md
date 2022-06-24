@@ -6,7 +6,7 @@
 - Generic, fast, tensor-based backpropagation
 - Support for several optimisers, from vanilla SGD to ADAM
 - Extremely straightforward, compact, Pythonic style for learning and teaching
-- 6 line CNN forward pass (3 of which are tuple unpackings!)
+- Stunningly compact 6 line CNN forward pass implementation (3 of which are tuple unpackings!)
 
 ### Getting Started:
 ```python
